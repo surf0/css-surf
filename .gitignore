@@ -1,0 +1,27 @@
+# Ignore everything
+/*
+!.gitignore
+
+# https://theapache64.github.io/git-do-not-ignore/
+# Replays
+#	serverfiles/cstrike/addons/sourcemod/data/replaybot/
+
+# sourcemod configs
+# 	serverfiles/cstrike/addons/sourcemod/configs/
+
+# server cfg
+#	serverfiles/cstrike/cfg/
+
+!serverfiles/
+serverfiles/*
+!serverfiles/cstrike/
+serverfiles/cstrike/*
+!serverfiles/cstrike/cfg/
+!serverfiles/cstrike/addons/
+serverfiles/cstrike/addons/*
+!serverfiles/cstrike/addons/sourcemod/
+serverfiles/cstrike/addons/sourcemod/*
+!serverfiles/cstrike/addons/sourcemod/data/
+serverfiles/cstrike/addons/sourcemod/data/*
+!serverfiles/cstrike/addons/sourcemod/configs/
+!serverfiles/cstrike/addons/sourcemod/data/replaybot/
