@@ -1,6 +1,7 @@
 # Ignore everything
 /*
 !.gitignore
+!dump.sql
 
 # https://theapache64.github.io/git-do-not-ignore/
 # Replays
